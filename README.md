@@ -17,7 +17,7 @@ Pra começar, leia esses dois materiais. Muito provalmente, você não vai compr
 
 Aqui o negócio começa a ficar mais sério. Veja esses cursos e, sempre que possível, pratique. O bom de ver vários cursos diferentes é reforçar alguns conteúdos repetidos e expandir os conteúdos mais importantes. Após esses vídeos, você provavelmente estará pronto pra usar o git e o Github no seu dia a dia.
 
-- [**Git e Github para sobrevivência | com DevSoutinho** - 01h44m](https://www.youtube.com/playlist?list=PLh2Y_pKOa4Uf-cUQOVNGlz_GVHx8QYoE6)
+- [**Git e Github para sobrevivência - com DevSoutinho** - 01h44m](https://www.youtube.com/playlist?list=PLh2Y_pKOa4Uf-cUQOVNGlz_GVHx8QYoE6)
 - [GitHub - Guia Completo do Iniciante - 22m18s](https://www.youtube.com/watch?v=UbJLOn1PAKw)
 - [Curso prático GIT e GITHUB - 02h53m](https://www.youtube.com/playlist?list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj)
 - [Git e Github para Iniciantes - 02h05m](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A)
