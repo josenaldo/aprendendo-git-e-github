@@ -1,6 +1,9 @@
-theme: jekyll-theme-midnight
+theme: pages-themes/cayman@v0.2.0
 title: Aprendendo Git e Guthub
 subtitle: Um pequeno guia para quem está perdido
+
+show_downloads: false
+
 author: Josenaldo Matos
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: pt-BR
