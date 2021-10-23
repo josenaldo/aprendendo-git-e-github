@@ -1,4 +1,4 @@
-theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 title: Aprendendo Git e Guthub
 subtitle: Um pequeno guia para quem está perdido
 
