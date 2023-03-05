@@ -14,8 +14,9 @@ Se tiver indicações de materiais em português, pode mandar a indicação nas 
 
 ## Guia pra início rápido
 
-Pra começar, leia esses dois materiais. Muito provalmente, você não vai compreender muita coisa. Tá tudo bem. Apenas leia e anote os termos que chamarem sua atenção. Esses materiais são meio que um resumão do que você verá em detalhes, depois. E também servirão, no futuro, de guia rápido, caso você esqueça.
+Pra começar, leia esses trÊs materiais. Muito provalmente, você não vai compreender muita coisa. Tá tudo bem. Apenas leia e anote os termos que chamarem sua atenção. Esses materiais são meio que um resumão do que você verá em detalhes, depois. E também servirão, no futuro, de guia rápido, caso você esqueça.
 
+- ![PT](https://img.shields.io/badge/PT--BR-green) [Introdução ao Git e GitHub](https://github.com/dellamora/GirlsTechTalkClub/blob/master/Git-GitHub/Introdu%C3%A7%C3%A3o.md)
 - ![PT](https://img.shields.io/badge/PT--BR-green) [Git - Guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
 - ![PT](https://img.shields.io/badge/PT--BR-green) [Github descomplicado](https://medium.com/reprogramabr/github-descomplicado-2eb7f9fb2b60)
 
